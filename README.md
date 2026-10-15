@@ -18,9 +18,12 @@ Relevant coursework includes programming fundamentals, structured and object-ori
 
 ## Tech Stack
 
-**Programming & Databases:** C++ · Java · SQL
+**Programming & Databases:** C++ · Java · Assembly · SQL
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
