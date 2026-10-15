@@ -2,6 +2,12 @@
 
 I'm Mohamed Saber, a full-stack developer in training, building practical web projects and expanding my skills in cybersecurity. I completed a 100-hour Full Stack Development course at Creative Hub Benha, and I'm currently building [Habit Flow](https://github.com/mohamed-saber-hamed/habit-flow), a personal habit and task tracker.
 
+## Education & Coursework
+
+Studying **Computer Science and Artificial Intelligence** at **Benha University**.
+
+Relevant coursework includes programming fundamentals, structured and object-oriented programming, data structures, algorithm design and analysis, Assembly language, logic design, computer networks, information systems, and systems analysis and design. Foundational mathematics coursework includes discrete mathematics, calculus, linear algebra, probability and statistics, and differential equations.
+
 ## Socials
 
 <p align="left">
@@ -11,6 +17,8 @@ I'm Mohamed Saber, a full-stack developer in training, building practical web pr
 </p>
 
 ## Tech Stack
+
+**Programming & Databases:** C++ · Java · SQL
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
